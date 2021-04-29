@@ -1,4 +1,20 @@
-# Violation-of-Conditional-Independence
+# STAT 536D Project
 
-Conditional independence is defined that the occurrence of A and the occurrence of B are independent in their conditional probability distribution given some event C. That means, given the information of C, the observation of A will provide no information about the occurrence of B, and the observation of B will not reveal anything about A neither.
-Generally, the conditional independence assumption is the base of Bayesian models. However, real cases differ in that the input variables may not meet such an assumption, or the conditional independence is weak. We would like to check the potential damage to the model when the input variable can not hold the conditional independence assumption well. 
+## What is this project? 
+
+**Violation-of-Conditional-Independence**
+
+This Project is a repository for deliverables in STAT 536D at the University of British Columbia.
+
+
+## What files are in the project folder / GitHub repository?
+[x] General repository:
+   1. README.md - Summary information for this project.
+   2. project.rmd - Project codes in RMarkdown.
+   3. project.md - Codes in .md file.
+   4. project.html - Codes in .html file.
+   5. project.pdf - Project report.
+
+[x] Packages used:
+   1. rjags
+   2. MCMCvis
